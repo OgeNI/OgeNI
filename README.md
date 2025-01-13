@@ -27,10 +27,9 @@ Here are some ideas to get you started:
 
 
 ### About Ogechukwu Iloanusi
-<p><img src="./images/OgeProfPhoto.jpeg" width "100" height "auto"; /></p>
+<p><img src="./images/OgeProfPhoto.jpeg" width="100" height="100"></p>
 
-##### 
-Oge is a Full Professor at the Department of Electronic and Computer Engineering, Faculty of Engineering, University of Nigeria, Nsukka Campus. Oge holds a B.Eng. in Electronic Engineering; M.Eng. in Digital Electronics and Computer; and Ph.D. in Digital Electronics and Computer (Biometrics recognition). Her research interests include Biometrics Recognition and Image Processing, Generative AI Engineering, Artificial Intelligence, AI-Internet of Things, Computer Vision and Machine / Deep Learning.
+##### Oge is a Full Professor at the Department of Electronic and Computer Engineering, Faculty of Engineering, University of Nigeria, Nsukka Campus. Oge holds a B.Eng. in Electronic Engineering; M.Eng. in Digital Electronics and Computer; and Ph.D. in Digital Electronics and Computer (Biometrics recognition). Her research interests include Biometrics Recognition and Image Processing, Generative AI Engineering, Artificial Intelligence, AI-Internet of Things, Computer Vision and Machine / Deep Learning.
 
 ##### Oge has taught a total of seventeen (17) courses since 2006, of which eleven (11) are undergraduate courses at the University of Nigeria. The courses include digital signal processing, advanced signal processing, image processing, biometrics recognition and machine learning, control systems, control engineering, engineering computer programming, digital logic theory, physical electronics, microelectronics, solid state electronics, advanced security systems, technical writing, integrated electronics, analog electronics and digital systems design. The undergraduate class sizes are typically about 120. 
 
