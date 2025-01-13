@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <p align="center"> <h1>OGECHUKWU NKECHINYELU ILOANUSI, Ph.D. </h1></p>
 <hr/>
 
-# About Ogechukwu Iloanusi
+### About Ogechukwu Iloanusi
 
 ##### Oge is a Full Professor at the Department of Electronic and Computer Engineering, Faculty of Engineering, University of Nigeria, Nsukka Campus. Oge holds a B.Eng. in Electronic Engineering; M.Eng. in Digital Electronics and Computer; and Ph.D. in Digital Electronics and Computer (Biometrics recognition). Her research interests include Biometrics Recognition and Image Processing, Artificial Intelligence, AI-Internet of Things, Computer Vision and Machine / Deep Learning.
 
@@ -31,5 +31,13 @@ Here are some ideas to get you started:
 
 <hr/>
 
+### Publications
 
+##### <a href="[url](https://scholar.google.com/citations?user=9q7IHY8AAAAJ&hl=en)">Publications</a>
+
+<hr/>
+
+### Research
+
+##### <a href="https://biometricsvision.com/">Research</a>
 
