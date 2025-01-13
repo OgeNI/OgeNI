@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 ### Publications
 
-<p><h4><a href="https://scholar.google.com/citations?user=9q7IHY8AAAAJ&hl=en" target="_blank">Publications</a></h4></p>
+<p><h4><a href="https://scholar.google.com/citations?user=9q7IHY8AAAAJ&hl=en" [target="_blank"]>Publications</a></h4></p>
 
 <hr/>
 
