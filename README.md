@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 
 ### About Ogechukwu Iloanusi
-<p><img src="./images/OgeProfPhoto.jpeg" style="display: block; margin: auto; max-width: 64;" /></p>
+<p><img src="./images/OgeProfPhoto.jpeg" style="display: block; margin: auto; max-width: 32;" /></p>
 
 ##### Oge is a Full Professor at the Department of Electronic and Computer Engineering, Faculty of Engineering, University of Nigeria, Nsukka Campus. Oge holds a B.Eng. in Electronic Engineering; M.Eng. in Digital Electronics and Computer; and Ph.D. in Digital Electronics and Computer (Biometrics recognition). Her research interests include Biometrics Recognition and Image Processing, Generative AI Engineering, Artificial Intelligence, AI-Internet of Things, Computer Vision and Machine / Deep Learning.
 
