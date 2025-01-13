@@ -53,13 +53,11 @@ Here are some ideas to get you started:
 <hr/>
 
 ### Repositories
-##### Image processing and binarization algorithm [ <a href="https://github.com/OgeNI/FingerprintProcessBinarize" >Available here</a> ]
-
 #### Github
+##### Image processing and binarization algorithm [ <a href="https://github.com/OgeNI/FingerprintProcessBinarize" >Available here</a> ]
 
 #### Datasets
 ##### Voice utterances from 526 individuals [<a href="https://www.kaggle.com/datasets/ogechukwu/voice">A challenging Voice Dataset</a>]
-
 
 <hr/>
 
