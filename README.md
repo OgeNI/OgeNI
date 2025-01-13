@@ -54,21 +54,13 @@ Here are some ideas to get you started:
 
 ### IT Skills
 
-#### Currently in Use
-
 #####
 •	Operating Systems: Linux CLI, Macintosh CLI & GUI, Windows CLI & Windows GUI <br>
-•	Programming and Scripting Languages / Web definition languages: Python, Linux shell programming, MATLAB programming, JavaScript, HTML definition language. <br>
+•	Programming languages: Python, Linux shell programming, MATLAB programming, JavaScript, Perl, Visual Basic <br>
+- Scripting Languages / Web definition languages:  HTML definition language, PHP, Java Applets <br>
 •	Applications: All Microsoft Office applications, Adobe creative cloud <br>
 •	Integrated development platforms / frameworks: Django, Docker, Nuxt, VueJs, Ionic Vue, Visual Studio code. <br>
 <br>
-
-#### Used in the Past
-
-#####
-•	Operating Systems: MS DOS <br>
-•	Programming and Scripting Languages / Web definition language: Java Applets, Perl, Visual Basic, Quick Basic, PHP <br>
-•	Database and Web Design/Service Programs: XAMPP, LAMP, Microsoft Access, Macromedia dreamweaver / fireworks / flash <br>
 
 
 
