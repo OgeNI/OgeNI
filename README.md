@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 #### 
 - University Teaching <br>
 - Graduate Supervision <br>
-- Research in Biometric Recognition, Computer Vision and Deep Learning <br>
-- Gen AI Engineer <br>
+- Research in Biometrics Recognition, Computer Vision, Artificial Intelligence and Deep Learning <br>
+- Gen AI Engineering <br>
 
 
 ### About Ogechukwu Iloanusi
