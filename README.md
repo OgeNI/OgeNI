@@ -17,6 +17,15 @@ Here are some ideas to get you started:
 <p align="center"> <h1>OGECHUKWU NKECHINYELU ILOANUSI, Ph.D. </h1></p>
 <hr/>
 
+### Expertise
+
+#### 
+University Teaching <br>
+Graduate Supervision <br>
+Research in Biometric Recognition, Computer Vision and Deep Learning <br>
+Gen AI Engineer <br>
+
+
 ### About Ogechukwu Iloanusi
 
 ##### Oge is a Full Professor at the Department of Electronic and Computer Engineering, Faculty of Engineering, University of Nigeria, Nsukka Campus. Oge holds a B.Eng. in Electronic Engineering; M.Eng. in Digital Electronics and Computer; and Ph.D. in Digital Electronics and Computer (Biometrics recognition). Her research interests include Biometrics Recognition and Image Processing, Artificial Intelligence, AI-Internet of Things, Computer Vision and Machine / Deep Learning.
@@ -33,11 +42,34 @@ Here are some ideas to get you started:
 
 ### Publications
 
-##### <a href="[url](https://scholar.google.com/citations?user=9q7IHY8AAAAJ&hl=en)">Publications</a>
+##### <a href="https://scholar.google.com/citations?user=9q7IHY8AAAAJ&hl=en" target="_blank">Publications</a>
 
 <hr/>
 
 ### Research
 
-##### <a href="https://biometricsvision.com/">Research</a>
+##### <a href="https://biometricsvision.com/" target="_blank">Research</a>
+
+<hr/>
+
+### IT Skills
+
+#### Currently in Use
+
+#####
+•	Operating Systems: Linux CLI, Macintosh CLI & GUI, Windows CLI & Windows GUI <br>
+•	Programming and Scripting Languages / Web definition languages: Python, Linux shell programming, MATLAB programming, JavaScript, HTML definition language. <br>
+•	Applications: All Microsoft Office applications, Adobe creative cloud <br>
+•	Integrated development platforms / frameworks: Django, Docker, Nuxt, VueJs, Ionic Vue, Visual Studio code. <br>
+<br>
+
+#### Used in the Past
+
+#####
+•	Operating Systems: MS DOS <br>
+•	Programming and Scripting Languages / Web definition language: Java Applets, Perl, Visual Basic, Quick Basic, PHP <br>
+•	Database and Web Design/Service Programs: XAMPP, LAMP, Microsoft Access, Macromedia dreamweaver / fireworks / flash <br>
+
+
+
 
