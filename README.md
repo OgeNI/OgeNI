@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 ### Expertise
 
 #### 
-University Teaching <br>
-Graduate Supervision <br>
-Research in Biometric Recognition, Computer Vision and Deep Learning <br>
-Gen AI Engineer <br>
+- University Teaching <br>
+- Graduate Supervision <br>
+- Research in Biometric Recognition, Computer Vision and Deep Learning <br>
+- Gen AI Engineer <br>
 
 
 ### About Ogechukwu Iloanusi
