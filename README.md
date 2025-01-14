@@ -65,14 +65,14 @@ Here are some ideas to get you started:
 ### IT Skills
 
 #####
-•	Generative AI programming: Developing Tools and Agentic workflows, Gen AI model fine-tuning
-•	Computer vision & Deep learning: CV Model training from scratch, transfer learning/fine-tuning, model analysis
-•	Biometrics recognition: Large programming code base for Fingerprint, Face, Voice, Iris recognition
-•	Operating Systems: Linux CLI, Macintosh CLI & GUI, Windows CLI & Windows GUI <br>
-•	Programming languages: Python, Linux shell programming, MATLAB programming, JavaScript, Perl, Visual Basic. Over 1000 code base <br>
-•	Scripting Languages / Web definition languages:  HTML definition language, PHP, Java Applets <br>
-•	Applications: All Microsoft Office applications, Adobe creative cloud <br>
-•	Integrated development platforms / frameworks: Django, Docker, Nuxt, VueJs, Ionic Vue, Visual Studio code. <br>
+- Generative AI programming: Developing Tools and Agentic workflows, Gen AI model fine-tuning
+- Computer vision & Deep learning: CV Model training from scratch, transfer learning/fine-tuning, model analysis
+- Biometrics recognition: Large programming code base for Fingerprint, Face, Voice, Iris recognition
+- Operating Systems: Linux CLI, Macintosh CLI & GUI, Windows CLI & Windows GUI <br>
+- Programming languages: Python, Linux shell programming, MATLAB programming, JavaScript, Perl, Visual Basic. Over 1000 code base <br>
+- Scripting Languages / Web definition languages:  HTML definition language, PHP, Java Applets <br>
+- Applications: All Microsoft Office applications, Adobe creative cloud <br>
+- Integrated development platforms / frameworks: Django, Docker, Nuxt, VueJs, Ionic Vue, Visual Studio code. <br>
 <br>
 
 
