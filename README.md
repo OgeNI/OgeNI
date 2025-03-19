@@ -57,8 +57,14 @@ Here are some ideas to get you started:
 #### Github
 ##### Fingerprint image processing and binarization algorithm [ <a href="https://github.com/OgeNI/FingerprintProcessBinarize" >Available here</a> ]
 
+##### Faces Dataset [ <a href="https://github.com/OgeNI/BVC_Face_Images" >BVC Face Images</a> ]
+
+<hr> 
+ 
 #### Datasets
 ##### Voice recordings from 526 individuals [<a href="https://www.kaggle.com/datasets/ogechukwu/voice">A challenging Voice Dataset</a>]
+
+##### Faces Dataset [ <a href="https://github.com/OgeNI/BVC_Face_Images" >BVC Face Images</a> ]
 
 <hr/>
 
