@@ -60,15 +60,15 @@ Here are some ideas to get you started:
 
 ##### Fingerprint image processing and binarization algorithm [ <a href="https://github.com/OgeNI/FingerprintProcessBinarize" >Available here</a> ]
 
-##### Fingerprint Dataset [ <a href="https://github.com/OgeNI/BVC_Fingerprint_data_2016" >Available here</a> ]
+##### Fingerprint Dataset [ <a href="https://github.com/OgeNI/BVC_Fingerprint_data_2016" >Information available here</a> ]
 
 ##### Faces Dataset [ <a href="https://github.com/OgeNI/BVC_Face_Images" >BVC Face Images</a> ]
 
-##### Body Dataset [ <a href="https://github.com/OgeNI/BVC_Body_Images" >Available here</a> ]
+##### Body Dataset [ <a href="https://github.com/OgeNI/BVC_Body_Images" >Information available here</a> ]
 
-##### Challenging Voice Dataset [ <a href="https://github.com/OgeNI/BVC_Challenging_Voice_Set" >Available here</a> ]
+##### Challenging Voice Dataset [ <a href="https://github.com/OgeNI/BVC_Challenging_Voice_Set" >Information available here</a> ]
 
-##### Afro Voice dataset [ <a href="https://github.com/OgeNI/BVC_Afro_Voice_data" >Available here</a> ]
+##### Afro Voice dataset [ <a href="https://github.com/OgeNI/BVC_Afro_Voice_data" >Information available here</a> ]
 
 <hr/>
 
