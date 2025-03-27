@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 ##### Faces Dataset [ <a href="https://github.com/OgeNI/BVC_Face_Images" >BVC Face Images</a> ]
 
-##### Body Dataset [ https://github.com/OgeNI/BVC_Body_Images ]
+##### Body Dataset [ <a href="https://github.com/OgeNI/BVC_Body_Images" >Available here</a> ]
 
-##### Challenging Voice Dataset [ https://github.com/OgeNI/BVC_Challenging_Voice_Set ]
+##### Challenging Voice Dataset [ <a href="https://github.com/OgeNI/BVC_Challenging_Voice_Set" >Available here</a> ]
 
-##### Afro Voice dataset [ https://github.com/OgeNI/BVC_Afro_Voice_data ]
+##### Afro Voice dataset [ <a href="https://github.com/OgeNI/BVC_Afro_Voice_data" >Available here</a> ]
 
 <hr/>
 
