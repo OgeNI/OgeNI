@@ -60,6 +60,8 @@ Here are some ideas to get you started:
 
 ##### Fingerprint image processing and binarization algorithm [ <a href="https://github.com/OgeNI/FingerprintProcessBinarize" >Available here</a> ]
 
+##### Fingerprint Dataset [ <a href="https://github.com/OgeNI/BVC_Fingerprint_data_2016" >Available here</a> ]
+
 ##### Faces Dataset [ <a href="https://github.com/OgeNI/BVC_Face_Images" >BVC Face Images</a> ]
 
 ##### Body Dataset [ <a href="https://github.com/OgeNI/BVC_Body_Images" >Available here</a> ]
