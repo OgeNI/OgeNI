@@ -55,16 +55,18 @@ Here are some ideas to get you started:
 
 ### Repositories
 #### Github
+
+###### Please note that these datasets are not available for cloning. Make a formal request via email provided in each repo page.
+
 ##### Fingerprint image processing and binarization algorithm [ <a href="https://github.com/OgeNI/FingerprintProcessBinarize" >Available here</a> ]
 
 ##### Faces Dataset [ <a href="https://github.com/OgeNI/BVC_Face_Images" >BVC Face Images</a> ]
 
-<hr> 
- 
-#### Datasets
-##### Voice recordings from 526 individuals [<a href="https://www.kaggle.com/datasets/ogechukwu/voice">A challenging Voice Dataset</a>]
+##### Body Dataset [ https://github.com/OgeNI/BVC_Body_Images ]
 
-##### Faces Dataset [ <a href="https://github.com/OgeNI/BVC_Face_Images" >BVC Face Images</a> ]
+##### Challenging Voice Dataset [ https://github.com/OgeNI/BVC_Challenging_Voice_Set ]
+
+##### Afro Voice dataset [ https://github.com/OgeNI/BVC_Afro_Voice_data ]
 
 <hr/>
 
